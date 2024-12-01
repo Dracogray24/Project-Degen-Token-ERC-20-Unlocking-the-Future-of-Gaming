@@ -74,7 +74,7 @@ contract CustomToken is ERC20, Ownable, Pausable {
 
 After copying it, compiling it will make the contract deployable and ready for interaction.
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile MyToken.sol" button.
+Find "MyToken.sol" in my contracts folder. To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile MyToken.sol" button.
 Once the code is compiled, you can deploy the contract by clicking the "Deploy & Run Transactions" tab in the left-hand sidebar. but before that you will change your environment in the top to "injected Provider", to connect your metamask wallet. Select the "MyToken" contract from the dropdown menu, and click on the "Deploy" button a pop-up window will show click confirm and wait for the contract ro be deployed.
 
 Once the contract is deployed, you can interact with it by copying the Account Address in the Deploy & Run Transactions" tab then go to Deployed contracts click the drop down arrow for the mint and paste the copied address the add your value then click transact to add value for your token. To see the token value the click the balanceof below. then to see the symbol, decimal, and name of the token just click the following buttons. To Send RP you need click the drop down arrow of SendRP then copy and paste the Account Address to the spender box then add your value below before clicking the transact. To Redeem tokens just add a value you want to redeem then click the button, it is just the same with ReduceRP. 
