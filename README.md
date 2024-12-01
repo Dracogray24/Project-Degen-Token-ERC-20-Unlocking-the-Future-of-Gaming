@@ -79,6 +79,8 @@ Once the code is compiled, you can deploy the contract by clicking the "Deploy &
 
 Once the contract is deployed, you can interact with it by copying the Account Address in the Deploy & Run Transactions" tab then go to Deployed contracts click the drop down arrow for the mint and paste the copied address the add your value then click transact to add value for your token. To see the token value the click the balanceof below. then to see the symbol, decimal, and name of the token just click the following buttons. To Send RP you need click the drop down arrow of SendRP then copy and paste the Account Address to the spender box then add your value below before clicking the transact. To Redeem tokens just add a value you want to redeem then click the button, it is just the same with ReduceRP. 
 
+To test this copy the address of the deployed contract in the Deployed Contracts. Then paste it in the HOLESKY TESNET BLOCK EXPLORER to find your token. You will see all the transactions you have dine
+
 
 P.S
 I didn't use the Avalanche Fuji Testnet and Snowtrace because my MetaMask Wallet doesn't have any AVAX value in my account and i can't find a way to connect it, I already ask for help within the Avalanche discord community they say that i need to have a transaction or have a balance in my wallet to work and their website is faulty thats why i use the HOLESKY NETWORK and HOLESKY TESNET BLOCK EXPLORER for my token.
